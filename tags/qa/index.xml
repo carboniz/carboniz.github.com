@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>QA on 焦糖的博客</title>
+    <link>https://examplesite.com/tags/qa/</link>
+    <description>Recent content in QA on 焦糖的博客</description>
+    <image>
+      <title>焦糖的博客</title>
+      <url>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.139.3</generator>
+    <language>zh</language>
+    <lastBuildDate>Fri, 29 Nov 2024 18:02:22 +0800</lastBuildDate>
+    <atom:link href="https://examplesite.com/tags/qa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>为什么龙眼晒干后会变成褐色？</title>
+      <link>https://examplesite.com/posts/qa/</link>
+      <pubDate>Fri, 29 Nov 2024 18:02:22 +0800</pubDate>
+      <guid>https://examplesite.com/posts/qa/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;自然晾干的情况下，变色可能原因是氧化反应，美拉德以及焦糖化反应都要求高温，这里就当顺便拓展。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;氧化&#34;&gt;氧化&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;与空气接触引发氧化反应,这种氧化过程逐渐导致干燥的龙眼呈现出深棕色。
+&lt;ul&gt;
+&lt;li&gt;水果中的酚类化合物与氧气接触，导致多酚氧化酶催化反应，生成醌类化合物,进一步聚合，形成黑色或棕色的聚合物(黑色素）。
+&lt;ul&gt;
+&lt;li&gt;多酚氧化酶（polyphenol oxidase, PPO）存在于许多植物组织中。&lt;/li&gt;
+&lt;li&gt;苹果、香蕉、梨等在切开后会迅速变色，主要是由于酶促褐变反应。&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 疑点：如果隔绝空气晒干，颜色会发生变化吗？（实验）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;美拉德反应&#34;&gt;美拉德反应&lt;/h3&gt;
+&lt;p&gt;亦称非酶褐变反应，指食物中的还原糖（碳水化合物）与氨基酸／蛋白质在常温或加热时发生的一系列复杂反应，其结果是生成了棕黑色的大分子物质类黑精或称拟黑素。其通常快速从约140℃至170℃中进行。在较高的温度下，焦糖化和随后的裂解变得更加明显。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>CS on 焦糖的博客</title>
+    <link>https://examplesite.com/tags/cs/</link>
+    <description>Recent content in CS on 焦糖的博客</description>
+    <image>
+      <title>焦糖的博客</title>
+      <url>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.139.3</generator>
+    <language>zh</language>
+    <lastBuildDate>Fri, 29 Nov 2024 15:03:37 +0800</lastBuildDate>
+    <atom:link href="https://examplesite.com/tags/cs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mess</title>
+      <link>https://examplesite.com/posts/mess/</link>
+      <pubDate>Fri, 29 Nov 2024 15:03:37 +0800</pubDate>
+      <guid>https://examplesite.com/posts/mess/</guid>
+      <description>&lt;h1 id=&#34;hugo&#34;&gt;Hugo&lt;/h1&gt;
+&lt;h2 id=&#34;warn-deprecated&#34;&gt;WARN deprecated&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;WARN  deprecated: site config key paginate was deprecated in Hugo v0.128.0 and will be removed in a future release. Use pagination.pagerSize instead.
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;分析&lt;/strong&gt;：
+在 Hugo 版本 0.128.0 中，配置项 &lt;code&gt;paginate&lt;/code&gt; 已被弃用，并将在未来的版本中移除。建议使用 &lt;code&gt;pagination.pagerSize&lt;/code&gt; 作为替代。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;修改&lt;/strong&gt;：
+将配置文件中 &lt;code&gt;paginate&lt;/code&gt; 替换为 &lt;code&gt;pagination.pagerSize&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;archlinux&#34;&gt;Archlinux&lt;/h1&gt;
+&lt;h2 id=&#34;安装以及启用蓝牙功能&#34;&gt;安装以及启用蓝牙功能&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;sudo pacman -S bluez bluez-utils bluez-obex&lt;br&gt;
+sudo systemctl enable &amp;ndash;now bluetooth&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
