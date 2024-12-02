@@ -29,5 +29,7 @@
     <loc>https://examplesite.com/archives/</loc>
   </url><url>
     <loc>https://examplesite.com/categories/</loc>
+  </url><url>
+    <loc>https://examplesite.com/search/</loc>
   </url>
 </urlset>
