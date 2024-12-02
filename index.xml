@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>偏安一隅</title>
-    <link>https://examplesite.com/</link>
+    <link>https://carboniz.github.io/</link>
     <description>Recent content on 偏安一隅</description>
     <image>
       <title>偏安一隅</title>
-      <url>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://carboniz.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://carboniz.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.139.3</generator>
     <language>zh</language>
     <lastBuildDate>Fri, 29 Nov 2024 18:02:22 +0800</lastBuildDate>
-    <atom:link href="https://examplesite.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://carboniz.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>为什么龙眼晒干后会变成褐色？</title>
-      <link>https://examplesite.com/posts/qa/</link>
+      <link>https://carboniz.github.io/posts/qa/</link>
       <pubDate>Fri, 29 Nov 2024 18:02:22 +0800</pubDate>
-      <guid>https://examplesite.com/posts/qa/</guid>
+      <guid>https://carboniz.github.io/posts/qa/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;自然晾干的情况下，变色可能原因是氧化反应，美拉德以及焦糖化反应都要求高温，这里就当顺便拓展。&lt;/li&gt;
 &lt;/ul&gt;
@@ -41,9 +41,9 @@
     </item>
     <item>
       <title>Mess</title>
-      <link>https://examplesite.com/posts/mess/</link>
+      <link>https://carboniz.github.io/posts/mess/</link>
       <pubDate>Fri, 29 Nov 2024 15:03:37 +0800</pubDate>
-      <guid>https://examplesite.com/posts/mess/</guid>
+      <guid>https://carboniz.github.io/posts/mess/</guid>
       <description>&lt;h1 id=&#34;hugo&#34;&gt;Hugo&lt;/h1&gt;
 &lt;h2 id=&#34;warn-deprecated&#34;&gt;WARN deprecated&lt;/h2&gt;
 &lt;ul&gt;

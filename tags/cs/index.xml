@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>CS on 偏安一隅</title>
-    <link>https://examplesite.com/tags/cs/</link>
+    <link>https://carboniz.github.io/tags/cs/</link>
     <description>Recent content in CS on 偏安一隅</description>
     <image>
       <title>偏安一隅</title>
-      <url>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://carboniz.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://carboniz.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.139.3</generator>
     <language>zh</language>
     <lastBuildDate>Fri, 29 Nov 2024 15:03:37 +0800</lastBuildDate>
-    <atom:link href="https://examplesite.com/tags/cs/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://carboniz.github.io/tags/cs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mess</title>
-      <link>https://examplesite.com/posts/mess/</link>
+      <link>https://carboniz.github.io/posts/mess/</link>
       <pubDate>Fri, 29 Nov 2024 15:03:37 +0800</pubDate>
-      <guid>https://examplesite.com/posts/mess/</guid>
+      <guid>https://carboniz.github.io/posts/mess/</guid>
       <description>&lt;h1 id=&#34;hugo&#34;&gt;Hugo&lt;/h1&gt;
 &lt;h2 id=&#34;warn-deprecated&#34;&gt;WARN deprecated&lt;/h2&gt;
 &lt;ul&gt;
